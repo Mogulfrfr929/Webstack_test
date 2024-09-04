@@ -1,6 +1,6 @@
 # RVshee Restaurant
 
-<img src="assets/image0.jpeg" alt="RVshee Logo" />(https://66d3a99575f6ce9d315b81aa--sparkling-platypus-fd867a.netlify.app/image0.jpeg)
+(https://66d3a99575f6ce9d315b81aa--sparkling-platypus-fd867a.netlify.app/image0.jpeg)
 
 ## The Project
 [**View the deployed site**](https://66d3a99575f6ce9d315b81aa--sparkling-platypus-fd867a.netlify.app/)
