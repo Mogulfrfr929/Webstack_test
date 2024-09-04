@@ -1,7 +1,7 @@
 # [R Vishee]
 
-![Website Logo]([image0](https://github.com/user-attachments/assets/7ea53c23-8891-4a48-acef-d1a3ad0c8700)
-)
+[https://github.com/user-attachments/assets/7ea53c23-8891-4a48-acef-d1a3ad0c8700]
+
 
 ## The Project 
 [**View the deployed site**](https://your-website-url.com)
