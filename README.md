@@ -23,7 +23,7 @@ The following contributors have worked on this project:
 
 Explore the key features of the RVshee Restaurant website:
 
-!<img src=(https://66d3a99575f6ce9d315b81aa--sparkling-platypus-fd867a.netlify.app/image-menu.jpeg)
+<img src="Screenshot 2024-09-04 182835.png">/(https://66d3a99575f6ce9d315b81aa--sparkling-platypus-fd867a.netlify.app/image-menu.jpeg)
 
 ![Reservation System](https://66d3a99575f6ce9d315b81aa--sparkling-platypus-fd867a.netlify.app/image-reservation.jpeg)
 
